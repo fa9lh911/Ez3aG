@@ -1,9 +1,9 @@
 import pyautogui 
 from time import sleep
 
-msg = input("Enter Your Ms : ")
-num_msg = int(input("Num Of Ms : "))
-time_msg = float(input("Num Time Of ms :"))
+msg = input("fahad : ")
+num_msg = int(input("+966541074393: "))
+time_msg = float(input("100h :"))
 
 for num in range (num_msg + 1 ) :
     pyautogui.typewrite(msg)
